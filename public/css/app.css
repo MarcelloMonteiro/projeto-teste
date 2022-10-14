@@ -1,0 +1,79 @@
+.cpf {
+    width: 9rem;
+    border-radius: 13px;
+}
+
+.nome {
+    width: 18rem;
+    position: relative;
+    top: -62px;
+    left: 198px;
+}
+
+.nascimento {
+    width: 17rem;
+    position: relative;
+    top: -124px;
+    left: 535px;
+}
+
+.sexo {
+    position: relative;
+    top: -156px;
+    left: 868px;
+}
+
+.endereco {
+    width: 26rem;
+    position: relative;
+    top: -124px;
+    left: 0px;
+}
+
+.estado {
+    width: 21rem;
+    position: relative;
+    top: -186px;
+    left: 466px;
+}
+
+.cidade {
+    width: 21rem;
+    position: relative;
+    top: -186px;
+    left: 485px;
+}
+
+.botao {
+    width: 9rem;
+    position: relative;
+    top: -113px;
+    left: 366px;
+}
+.cpf2 {
+    top: -62px;
+    width: 9rem;
+    border-radius: 13px;
+    position: relative;
+}
+
+.nome2 {
+    width: 18rem;
+    position: relative;
+    top: -1px;
+    left: 198px;
+}
+
+.estado2 {
+    width: 21rem;
+    position: relative;
+    top: -147px;
+    left: 2px;
+}
+
+.cidade2 {
+    width: 21rem;
+    position: relative;
+    top: -148px;
+    left: -2px;
+}
